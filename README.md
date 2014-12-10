@@ -312,3 +312,5 @@ using (ComputeManagementClient client =
 
 - [Microsoft Azure .NET Developer Center](http://www.windowsazure.com/en-us/develop/net/)
 - [Microsoft Azure SDK Reference for .NET - MSDN](http://msdn.microsoft.com/en-us/library/dd179380.aspx)
+
+
